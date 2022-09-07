@@ -4,4 +4,4 @@ NPM     : 2106704364
 
 Kelas   : D
 
-Hobi    : Jalan-jalan
+Hobi    : Tidur
